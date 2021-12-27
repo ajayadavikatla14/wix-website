@@ -1,0 +1,220 @@
+body{
+    margin: 0px;
+    position: relative;
+}
+
+.headings{
+    display: flex;
+    margin-left: 30px;
+}
+
+.h-text{
+    margin-left: 36%;
+    font-size: 60px;
+    font-weight: bold;
+    font-family: sans-serif;
+    margin-top: 20px;
+}
+
+.h-back{
+    margin-left: 600px;
+    font-size: 40px;
+    font-family: sans-serif;
+    margin-top: 20px;
+    color: black;
+}
+
+.h-l{
+    text-decoration: none;
+}
+
+.login-part{
+    text-align: center;
+    font-size: 20px;
+    font-family: sans-serif;
+    margin-top: 10px;
+    color: rgb(51, 42, 42);
+}
+
+.login-part-l{
+    text-decoration: none;
+    color: rgb(75, 75, 240);
+}
+
+.login-part-l:hover{
+    color: red;
+}
+
+.body-part{
+    display: inline-block;
+    margin-top: -60px;
+}
+
+.form-part{
+    /* border: 1px solid red; */
+    margin-top: 50px;
+    margin-left: 400px;
+    display: inline-block;
+    flex-wrap: wrap;
+}
+
+#email{
+    width: 300px;
+    border: hidden;
+    border-bottom: 1px solid rgb(207, 201, 201);
+    margin-top: -100px;
+    font-size: 18px;
+    color: black;
+}
+
+#re-email{
+    width: 300px;
+    border: hidden;
+    border-bottom: 1px solid rgb(216, 212, 212);
+    margin-top: 50px;
+    font-size: 18px;
+    color: rgb(41, 32, 32);
+}
+
+#pwd{
+    width: 300px;
+    border: hidden;
+    border-bottom: 1px solid rgb(214, 209, 209);
+    margin-top: 50px;
+    font-size: 18px;
+    color: rgb(41, 32, 32);
+}
+
+#pwd2{
+    width: 300px;
+    border: hidden;
+    border-bottom: 1px solid rgb(219, 216, 216);
+    margin-top: 50px;
+    font-size: 18px;
+    color: rgb(41, 32, 32);
+}
+
+#btn{
+    width: 150px;
+    height: 40px;
+    font-size: 20px;
+    color: rgb(88, 88, 245);
+    margin-top: 50px;
+    background-color: white;
+    border: 1px solid rgb(85, 85, 241);
+    border-radius: 20px;
+}
+
+#email:hover{
+    border: hidden;
+    border-bottom: 1px solid black;
+}
+
+#re-email:hover{
+    border: hidden;
+    border-bottom: 1px solid black;
+}
+
+#pwd:hover{
+    border: hidden;
+    border-bottom: 1px solid black;
+}
+
+#pwd2:hover{
+    border: hidden;
+    border-bottom: 1px solid black;
+}
+
+#btn:hover{
+    background-color: rgb(90, 90, 250);
+    color: white;
+}
+
+.hr-body{
+    display: inline-block;
+    margin-left: 50px;
+    margin-top: 100px;
+}
+
+.hr{
+    width: 1px;
+    height: 350px;
+    border: hidden;
+    border-left: 1px solid gray;
+}
+
+.f-part{
+    display: inline-block;
+    margin-top: 0px;
+    margin-left: 60px;
+    /* border: 1px solid red; */
+    width: 400px;
+    height: 400px;
+}
+
+.fb{
+    margin-top: 150px;
+    margin-left: 30px;
+    width: 300px;
+    height: 50px;
+    background-color: rgb(38, 38, 187);
+    position: relative;
+}
+
+.fb-img{
+position: absolute;
+margin-top: 1px;
+margin-left: 1px;
+}
+
+.fb-text{
+    position: absolute;
+    margin-left: 70px;
+    margin-top: 15px;
+    color: white;
+}
+
+.google{
+    margin-top: 20px;
+    margin-left: 30px;
+    width: 300px;
+    height: 50px;
+    background-color: rgb(87, 87, 248);
+}
+
+.footer{
+    margin-top: 50px;
+}
+
+.foot-text{
+    text-align: center;
+    color: rgb(87, 85, 85);
+    margin-top: 5px;
+}
+
+.footer-link{
+    text-decoration: none;
+    color: rgb(101, 101, 230);
+}
+
+.footer-hr{
+    text-align: center;
+    width: 430px;
+    border: hidden;
+    border-top: 1px solid lightgray;
+}
+
+a:hover{
+    color: rgb(58, 58, 138);
+}
+
+
+
+
+
+
+
+
+
+
+
